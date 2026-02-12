@@ -1,4 +1,4 @@
-🏦 Bank Management System (JDBC + Oracle)
+ Bank Management System (JDBC + Oracle)
 
 A simple Java-based Bank Management System that performs money transfer between accounts using JDBC and Oracle Database with proper transaction management (Commit & Rollback).
 
